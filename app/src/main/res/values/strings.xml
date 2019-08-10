@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ProteinXPress</string>
+    <string name="exitingString">Exiting</string>
+    <string name="exitingDescription">Press Okay to Confirm or Back button to cancel</string>
+    <string name="confirmWord">Okay</string>
+    <string name="noInternetConnection">Internet Connection not available</string>
+    <string name="noInternetHelpText">Please connect to internet and then try again.</string>
 </resources>
